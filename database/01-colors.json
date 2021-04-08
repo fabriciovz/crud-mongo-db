@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "name": "Sand Dollar",
+  "color": "#DECDBE",
+  "pantone": "13-1106",
+  "year": 2000
+}
+{
+  "id": 2,
+  "name": "Sand Dollar 2",
+  "color": "#B39F61",
+  "pantone": "13-1107",
+  "year": 2001
+}
+{
+  "id": 3,
+  "name": "Sand Dollar 3",
+  "color": "#9C884B",
+  "pantone": "13-1108",
+  "year": 2002
+}
+{
+  "id": 4,
+  "name": "Sand Dollar 4",
+  "color": "#D1C59F",
+  "pantone": "13-1109",
+  "year": 2003
+}

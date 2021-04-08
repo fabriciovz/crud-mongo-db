@@ -1,0 +1,12 @@
+{ 
+    "id": 1,
+    "username" : "admin", 
+    "password" : "$2b$10$C/rfPEXrxmMf5LEmqtOB9O5/j4f/6RJGo19ZiB6J2i8KW1yMpCDsG", 
+    "email" : "fabribraguev@gmail.com"
+}
+{ 
+    "id": 2,
+    "username" : "user", 
+    "password" : "$2b$10$C/rfPEXrxmMf5LEmqtOB9O5/j4f/6RJGo19ZiB6J2i8KW1yMpCDsG", 
+    "email" : "fabribraguev2@gmail.com"
+}
